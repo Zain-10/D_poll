@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+.votes{
+    margin-left: 450px;
+}
+
+.results{
+    margin-left: 450px;
+}
